@@ -36,8 +36,6 @@ public class MyBatisConfig {
      */
     boolean a= false;
 
-    int i = 0;
-
     /**
      * @param sqlSessionFactory SqlSessionFactory
      * @return SqlSessionTemplate

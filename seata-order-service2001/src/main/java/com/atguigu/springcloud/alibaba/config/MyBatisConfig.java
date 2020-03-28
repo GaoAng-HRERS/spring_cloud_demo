@@ -33,9 +33,7 @@ public class MyBatisConfig {
     /**
      *测试git冲突
      */
-    public void TestGit(){
-        
-    }
+        int a;
 
     /**
      * @param sqlSessionFactory SqlSessionFactory

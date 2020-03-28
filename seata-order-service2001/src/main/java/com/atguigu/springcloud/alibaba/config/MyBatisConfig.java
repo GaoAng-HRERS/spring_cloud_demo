@@ -31,6 +31,11 @@ public class MyBatisConfig {
     @Value("${mybatis.mapper-locations}")
     private String mapperLocations;
 
+    /*
+    * git版本冲突
+    */
+    int i = 0;
+
     /**
      * @param sqlSessionFactory SqlSessionFactory
      * @return SqlSessionTemplate

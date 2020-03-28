@@ -33,8 +33,6 @@ public class MyBatisConfig {
     /**
      *测试git冲突
      */
-        int a;
-
     int i = 0;
 
     /**

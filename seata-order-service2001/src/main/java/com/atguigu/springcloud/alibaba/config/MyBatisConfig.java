@@ -30,6 +30,10 @@ public class MyBatisConfig {
 
     @Value("${mybatis.mapper-locations}")
     private String mapperLocations;
+    /**
+     *测试git冲突
+     */
+        int a;
 
     int i = 0;
 
